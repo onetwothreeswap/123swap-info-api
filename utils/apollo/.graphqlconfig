@@ -1,0 +1,15 @@
+{
+  "name": "123swap Exchange LITE",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "123swap Exchange LITE": {
+        "url": "https://api.bscgraph.org/subgraphs/name/123swap/exchange-lite",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
