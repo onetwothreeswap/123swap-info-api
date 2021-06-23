@@ -4,7 +4,7 @@
   "extensions": {
     "endpoints": {
       "123swap Exchange LITE": {
-        "url": "https://api.bscgraph.org/subgraphs/name/123swap/exchange-lite",
+        "url": "https://api.thegraph.com/subgraphs/name/onetwothreeswap/exchange",
         "headers": {
           "user-agent": "JS GraphQL"
         },
